@@ -7,4 +7,496 @@ X-WR-CALNAME:Breaking4
 X-WR-CALDESC:Plan d’entraînement Breaking 4
 REFRESH-INTERVAL;VALUE=DURATION:PT1H
 X-PUBLISHED-TTL:PT1H
+BEGIN:VEVENT
+UID:b4-a19cdfe9@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20250722
+DTEND;VALUE=DATE:20250723
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 10000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-ad9cf2cd@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20250724
+DTEND;VALUE=DATE:20250725
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 8000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-ac9f2fd1@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:Sortie longue
+DESCRIPTION:1. Effort — 14000 m — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-e670f890@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:VO2 — 6 × 1 min
+DESCRIPTION:1. Chauffe — 25 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 1 min — 4'15"/km — VO2\n  Récup — 2 min — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-ea70fedc@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 8000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-fb77d564@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:VO2 — 5 × 2 min
+DESCRIPTION:1. Chauffe — 25 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 5 fois\n  Effort — 2 min — 4'15"/km — VO2\n  Récup — 2 min 30 s — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-ef77c280@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 9000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-f175870f@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:Sortie longue
+DESCRIPTION:1. Effort — 15000 m — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-837d28aa@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:VO2 — 4 × 4 min
+DESCRIPTION:1. Chauffe — 25 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 4 fois\n  Effort — 4 min — 4'15"/km — VO2\n  Récup — 3 min 30 s — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-7f7d225e@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 10000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-7b7d1c12@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Sortie longue progressive
+DESCRIPTION:1. Effort — 17000 m — 5'50" à 6'30"/km — tu peux commencer a 6'30 et finir à 5'50
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-7c7adf0e@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:VO2 — 3 × 5 min
+DESCRIPTION:1. Chauffe — 25 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 3 fois\n  Effort — 5 min — 4'25"/km — VO2\n  Récup — 4 min — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-f082516f@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 10000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-ec824b23@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:Sortie longue progressive
+DESCRIPTION:1. Effort — 18000 m — 5'50" à 6'30"/km — tu peux commencer a 6'30 et finir à 5'50
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-904e5daf@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:10 × 400 m
+DESCRIPTION:1. Chauffe — 25 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 10 fois\n  Effort — 400 m — 4'20"/km\n  Récup — 1 min 30 s — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-8c4e5763@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 7000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-1b46e9bb@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:12 × (400 m + 200 m)
+DESCRIPTION:1. Chauffe — 20 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 12 fois\n  Effort — 400 m — 4'50"/km\n  Récup — 1 min 45 s — libre\n  Effort — 200 m — 4'30"/km\n  Récup — 45 s — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-1746e36f@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 8000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-93419675@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:10 × (600 m + 200 m)
+DESCRIPTION:1. Chauffe — 20 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 10 fois\n  Effort — 600 m — 4'50"/km\n  Récup — 2 min — libre\n  Effort — 200 m — 4'30"/km\n  Récup — 45 s — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-8f419029@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 10000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-9d43e4ca@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:8 × (800 m + 200 m)
+DESCRIPTION:1. Chauffe — 20 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 8 fois\n  Effort — 800 m — 4'50"/km\n  Récup — 2 min — libre\n  Effort — 200 m — 4'30"/km\n  Récup — 45 s — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-873d0663@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 10000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-8a3f49b3@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:5 × (1200 m + 400 m)
+DESCRIPTION:1. Chauffe — 30 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 5 fois\n  Effort — 1200 m — 4'50"/km\n  Récup — 2 min 30 s — libre\n  Effort — 400 m — 4'30"/km\n  Récup — 1 min 45 s — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-8e3f4fff@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Endurance fondamentale + 6 LD
+DESCRIPTION:1. Effort — 12000 m — libre — Ligne droite 15" sprint (sans tout mettre) en étant relaché toujours\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre — Récup libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-1df647c8@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:2 × (1200 / 1000 / 800 m)
+DESCRIPTION:1. Chauffe — 3000 m — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 2 fois\n  Effort — 1200 m — 5'30"/km\n  Récup — 200 m — libre\n  Effort — 1000 m — 5'05"/km\n  Récup — 200 m — libre\n  Effort — 800 m — 4'45"/km\n  Récup — 200 m — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-22f64fa7@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Endurance fondamentale
+DESCRIPTION:1. Effort — 7000 m — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-92eeb132@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:16 × 500 m
+DESCRIPTION:1. Chauffe — 20 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 16 fois\n  Effort — 500 m — 4'55"/km\n  Récup — 1 min — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-95eeb5eb@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Endurance fondamentale
+DESCRIPTION:1. Effort — 9500 m — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-ff1b490@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:Sortie longue — actif + blocs marathon/semi
+DESCRIPTION:1. Effort — 8000 m — 5'55"/km\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 2 fois\n  Effort — 7000 m — 5'30"/km\n  Effort — 1000 m — 5'05"/km\n  Récup — 1000 m — libre\n4. RAC — 2000 m — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-8efdb570@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:8 × 1000 m
+DESCRIPTION:1. Chauffe — 20 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 8 fois\n  Effort — 1000 m — 4'55"/km\n  Récup — 2 min — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-95fdc075@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Endurance fondamentale
+DESCRIPTION:1. Effort — 11500 m — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-99fdc6c1@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Sortie longue — 27 km progressifs
+DESCRIPTION:1. Effort — 27000 m — 5'25" à 6'20"/km\n2. Récup — jusqu’au bouton LAP — libre — Fin du bloc — appuyer LAP avant retour au calme\n3. RAC — 3000 m — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-93fffbe6@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:10 × 1 km progressifs
+DESCRIPTION:1. Chauffe — 20 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 10 fois\n  Effort — 1000 m — 4'45" à 5'15"/km\n  Récup — 2 min 30 s — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-24f89164@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Endurance fondamentale
+DESCRIPTION:1. Effort — 12500 m — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-20f88b18@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:Sortie longue — 10 km actif + 7/6/5 km marathon
+DESCRIPTION:1. Chauffe — 10000 m — 5'50"/km\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Effort — 7000 m — 5'30"/km\n4. Récup — 1000 m — 6'30"/km\n5. Effort — 6000 m — 5'30"/km\n6. Récup — 1000 m — 6'30"/km\n7. Effort — 5000 m — 5'30"/km\n8. Récup — jusqu’au bouton LAP — libre — Fin du bloc — appuyer LAP avant retour au calme\n9. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-a9fba15a@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:3000 M + 2000 Semi + 1000 10 km
+DESCRIPTION:1. Chauffe — 25 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Effort — 3000 m — 5'30"/km\n4. Récup — 3 min — libre\n5. Effort — 2000 m — 5'10"/km\n6. Récup — 3 min — libre\n7. Effort — 1000 m — 4'25"/km\n8. Récup — jusqu’au bouton LAP — libre — Fin du bloc — appuyer LAP avant retour au calme\n9. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-a5fb9b0e@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Endurance fondamentale
+DESCRIPTION:1. Effort — 9800 m — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-a1fb94c2@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:8 × 1000 m allure marathon
+DESCRIPTION:1. Chauffe — 30 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 8 fois\n  Effort — 1000 m — 5'30"/km\n  Récup — 3 min — libre\n4. RAC — 10 min — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-f828661f@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Rappel allure — 6 × 45 s
+DESCRIPTION:1. Chauffe — 25 min — libre\n2. Récup — jusqu’au bouton LAP — libre — Fin échauffement — appuyer LAP quand prêt\n3. Répéter 6 fois\n  Effort — 45 s — 4'50"/km\n  Récup — 45 s — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-f4285fd3@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Footing + 3 lignes droites
+DESCRIPTION:1. Effort — 5000 m — libre\n2. Récup — jusqu’au bouton LAP — libre — Récup entre blocs — appuyer LAP quand prêt\n3. Répéter 3 fois\n  Effort — 15 s — libre — Ligne droite relâchée\n  Récup — jusqu’au bouton LAP — libre
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b4-2872b7@breaking4
+DTSTAMP:20260809T095934Z
+LAST-MODIFIED:20260809T095931Z
+SEQUENCE:29771159
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:MARATHON NICE-CANNES 2026
+DESCRIPTION:1. Effort — 42195 m — 5'30"/km
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
 END:VCALENDAR
